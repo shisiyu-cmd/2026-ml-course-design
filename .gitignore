@@ -1,0 +1,27 @@
+﻿# data & weights (not distributed)
+*.pt
+*.pth
+*.npz
+*.npy
+cache/
+data/
+work/
+runs/
+preds/
+prior_preds/
+ckpt/
+folds*/
+train/
+test/
+ext_data/
+*.csv
+*.zip
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# os
+Thumbs.db
+.DS_Store
